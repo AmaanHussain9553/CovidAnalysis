@@ -16,5 +16,7 @@ The program is implemented using:
 4. Function to handle all the menu options for the user to toggle through the program
 
 CSV files obtained from John Hopkins Hospital
+
 Language: C++ 11
+
 Can be run on any IDE that can run C++ 11.
