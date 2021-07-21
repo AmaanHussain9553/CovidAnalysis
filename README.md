@@ -17,6 +17,10 @@ The program is implemented using:
 
 CSV files obtained from John Hopkins Hospital
 
+Coding details:
+
 Language: C++ 11
+
+No graphical requirement.
 
 Can be run on any IDE that can run C++ 11.
